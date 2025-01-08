@@ -9,4 +9,4 @@ This is the official implementation of paper "TemplateNet: An Efficient and Effe
 
 ## EXPERIMENTS
 
-![EXPERIMENTS](https://github.com/zouzhuozhang/TemplateNet/tree/main/image/EXPERIMENTS.png)
+![EXPERIMENTS](https://github.com/zouzhuozhang/TemplateNet/blob/main/image/EXPERIMENTS.png?raw=true)
